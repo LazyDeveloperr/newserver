@@ -1,0 +1,1 @@
+web: gunicorn hellofly:app & python3 bot.py
